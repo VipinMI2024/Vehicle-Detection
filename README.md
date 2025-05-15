@@ -71,8 +71,6 @@ vehicle-detection/
 
 If you want to contribute to this project, feel free to fork the repository, make improvements, and submit a pull request. Contributions are always welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
