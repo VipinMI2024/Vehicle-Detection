@@ -1,7 +1,7 @@
 
 # Real-Time Vehicle Detection and Counting System
 
-![Project Output](https://github.com/your-username/vehicle-detection/blob/main/output_screenshot.png)
+![Project Output](https://github.com/VipinMI2024/Vehicle-Detection/blob/main/OUTPUT.png)
 
 
 ## Project Overview
