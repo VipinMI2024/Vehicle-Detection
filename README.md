@@ -1,6 +1,9 @@
 
 # Real-Time Vehicle Detection and Counting System
 
+![Project Output](https://github.com/your-username/vehicle-detection/blob/main/output_screenshot.png)
+
+
 ## Project Overview
 
 This project implements a **real-time vehicle detection and counting system** using **Python** and **OpenCV**. The system detects and counts vehicles in motion in a video feed using **MOG2** for background subtraction and contour detection. Vehicles are tracked and counted as they cross a predefined line in the video frame.
